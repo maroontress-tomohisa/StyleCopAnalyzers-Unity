@@ -1,0 +1,21 @@
+{
+  "name": "com.maroontress.stylecopanalyzers",
+  "version": "1.1.118",
+  "displayName": "StyleCop.Analyzers",
+  "description": "An implementation of StyleCop rules using the .NET Compiler Platform",
+  "unity": "2022.1",
+  "documentationUrl": "https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/1.1.118/DOCUMENTATION.md",
+  "changelogUrl": "https://github.com/DotNetAnalyzers/StyleCopAnalyzers/releases",
+  "licensesUrl": "https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/1.1.118/LICENSE",
+  "dependencies": {
+    "com.unity.ide.visualstudio": "2.0.16"
+  },
+  "keywords": [
+    "RoslynAnalyzer"
+  ],
+  "author": {
+    "name": "Maroontress",
+    "email": "support@maroontress.com",
+    "url": "https://maroontress.github.io"
+  }
+}
